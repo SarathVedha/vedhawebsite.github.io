@@ -513,15 +513,11 @@ img{
     width: 75%;
 }
 
-.skills__css{
-    width: 65%;
-}
-
 .skills__js{
     width: 70%;
 }
 
-.skills__react{
+.skills__angular{
     width: 60%;
 }
 
@@ -529,16 +525,12 @@ img{
     width: 85%;
 }
 
+.skills__spring{
+    width: 80%;
+}
+
 .skills__python{
     width: 75%;
-}
-
-.skills__csharp{
-    width: 70%;
-}
-
-.skills__firebase{
-    width: 65%;
 }
 
 .skills__jira{
